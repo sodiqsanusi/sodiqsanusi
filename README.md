@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋🏾
 ![](https://www.codewars.com/users/sodiqsanusi/badges/large)
 
 <!--
