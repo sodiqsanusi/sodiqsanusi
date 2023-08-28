@@ -2,7 +2,7 @@
 [![Codewars](https://www.codewars.com/users/sodiqsanusi/badges/large)](https://www.codewars.com/users/sodiqsanusi/)
 
 ### Hi there 👋🏾
-I'm **Sodiq**, a software developer with over 2 years experience of building applications on the web. <br>
+I'm **Sodiq**, a software developer with over 2 years of experience building applications on the web. <br>
 Currently undergoing a 12-month Software Engineering course with the African Leadership Group (ALx) to enhance my programming skills.
 
 ### 🚀 My Passion:
