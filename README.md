@@ -20,7 +20,7 @@ I believe in continuously exploring new technologies to stay ahead in this rapid
 ### 🤖 Hardware & Robotics:
 From time to time, I play around with microcontrollers and hardware components to build fun projects. Using an Arduino Uno or an ESP-32 microcontroller (with MicroPython), I try to find my way in the electronics part of tech by following along with tutorials and IoT roadmaps.
 
-### 🤝 Collaboration and Volunteering:
+### 🤝🏾 Collaboration and Volunteering:
 I'm not just about professional gigs; I'm also enthusiastic about meaningful open source projects. If you have a clear vision of what you want to build and are looking for dedicated team members, do reach out!
 
 ### 📩 Let's Connect:
