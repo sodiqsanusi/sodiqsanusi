@@ -15,7 +15,7 @@ I'm skilled in various technologies, including: <br>
 **Jest, React Testing Library,** e.t.c - Unit Testing <br>
 **Redux, Styled Components, Storybook,** e.t.c - Other Tools <br>
 
-I believe in always learning new technologies to stay current in this fast-changing field.
+I believe in always learning new technologies to stay current in this fast-changing field. My greatest strength still remains my ability to quickly and efficiently learn new tools as I need them.
 
 ### 🤖 Hardware & Robotics:
 From time to time, I experiment with microcontrollers and hardware components to build fun projects. Using an Arduino Uno or an ESP-32 microcontroller (with MicroPython), I explore the electronics side of tech by following tutorials and IoT roadmaps.
